@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 sharedassets4.resource filter=lfs diff=lfs merge=lfs -text
+sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
